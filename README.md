@@ -1,6 +1,6 @@
 # Hi, I'm Kristofer 👋
 
-**Senior Product Manager | AI/ML Platforms | B2B SaaS | Executive Experience**
+**Product Manager | AI/ML Platforms | B2B SaaS | Executive Experience**
 
 I build AI-powered products and technical platforms that solve real-world problems. 
 
