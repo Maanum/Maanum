@@ -2,11 +2,11 @@
 
 **Product Manager | AI/ML Platforms | B2B SaaS | Executive Experience**
 
-I build AI-powered products and technical platforms that solve real-world problems. 
+I build AI-powered products and technical platforms that solve real-world problems.  Currently seeking remote Senior PM roles in AI/ML products.
 
 ## 🚀 What I Do
 
-- **17 years** in B2B software with **8 years** leading product management for AI/ML platforms and technical products
+- **19 years in B2B software with 6+ years hands-on AI/ML development**
 - **Executive Experience**: Regional Director and Head of Product roles with P&L responsibility and team leadership
 - **AI Applications**: Built production ML systems, MLOps platforms, and AI-powered workflow automation
 - **Platform Product Management**: Led technical platforms serving Fortune 500 companies
